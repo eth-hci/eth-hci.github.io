@@ -26,5 +26,13 @@
         "linkAbbr": "cog.ethz.ch",
         "faculty": "Christoph Hölscher",
         "department": "Department of Humanities, Social and Political Sciences"
+    },
+    
+    {
+        "name": "Rau's Lab",
+        "link": "tbd",
+        "linkAbbr": "TBD",
+        "faculty": "Martina Rau",
+        "department": "Department of Humanities, Social and Political Sciences"
     }
 ]
