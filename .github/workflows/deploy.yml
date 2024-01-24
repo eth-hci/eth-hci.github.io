@@ -17,3 +17,8 @@ jobs:
         run: npm install
       - name: Build the website
         run: npm run build
+      - name: Push the changes
+        run: |
+          git add --all
+          git commit --allow-empty --message "GitHub Action Push from Build"
+          git push
