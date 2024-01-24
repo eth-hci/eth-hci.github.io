@@ -1,0 +1,25 @@
+header.w3-container.w3-dark-grey.w3-center.w3-padding-64
+    h1.w3-margin.w3-xxxlarge Human-Computer Interaction at ETH Zürich
+    p.w3-medium.w3-content This site provides an overview of all HCI-related research and groups at ETH Zürich, including user interface technologies, new input &amp; output devices, novel interaction techniques, tangible &amp; ubiquitous computing, virtual &amp; augmented reality, as well as computer supported collaborative work.
+    p.w3-medium.w3-content More content to emerge...
+
+section.w3-container.w3-content
+    h2 Groups
+    each group in data.groups
+        div.w3-row-padding.w3-padding-32.w3-container
+            div.w3-content
+                div.w3-twothird
+                    h3 !{group.name}
+                    p
+                        a(href=group.link, target='_blank') !{group.linkAbbr}
+                    p led by Prof. !{group.faculty} (!{group.department})
+
+section.w3-container.w3-content
+    h2 Publications
+    each pub in data.pubs
+        div.w3-row-padding.w3-padding-32.w3-container
+            div.w3-content
+                a(href=pub.url, target='_blank')
+                    strong !{pub.title}
+                p !{pub.author}
+                p !{pub.booktitle}, !{pub.year}

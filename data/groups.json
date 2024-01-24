@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Advanced Interactive Technologies",
+        "link": "https://ait.ethz.ch",
+        "linkAbbr": "ait.ethz.ch",
+        "faculty": "Otmar Hilliges",
+        "department": "Department of Computer Science"
+    },
+    {
+        "name": "Sensing, Interaction &amp; Perception Lab",
+        "link": "https://siplab.org",
+        "linkAbbr": "siplab.org",
+        "faculty": "Christian Holz",
+        "department": "Department of Computer Science"
+    },
+    {
+        "name": "Programming, Education, and Computer-Human Interaction Lab",
+        "link": "https://peachlab.inf.ethz.ch/",
+        "linkAbbr": "peachlab.inf.ethz.ch",
+        "faculty": "April Wang",
+        "department": "Department of Computer Science"
+    },
+    {
+        "name": "Chair of Cognitive Science",
+        "link": "https://cog.ethz.ch/",
+        "linkAbbr": "cog.ethz.ch",
+        "faculty": "Christoph Hölscher",
+        "department": "Department of Humanities, Social and Political Sciences"
+    }
+]
