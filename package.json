@@ -16,6 +16,7 @@
     "bibtex-js-parser": "^1.1.6",
     "pug": "^3.0.2",
     "raw-loader": "^4.0.2",
-    "webpack": "^5.90.0"
+    "webpack": "^5.90.0",
+    "webpack-cli": "^5.1.4"
   }
 }
