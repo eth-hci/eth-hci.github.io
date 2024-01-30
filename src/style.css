@@ -15,8 +15,9 @@ header {
     padding: 50px 0px;
     font-size: 1.5rem;
 }
-h1 {
+header > h1 {
     font-size: 2.5rem;
+    padding: 20px 0px;
 }
 
 #logo {
@@ -74,7 +75,6 @@ figcaption {
 }
 
 #contact {
-    padding: 10px 0px;
     text-align: left;
 }
 
@@ -92,3 +92,21 @@ footer {
 #contact > p {
     font-size: 1rem;
 }
+
+@media screen and (max-width: 600px) {
+    .w3-container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    #logo {
+        height: 30px;
+        width: auto;
+    }
+    header {
+        margin-top: 80px;
+        font-size: 1.2rem;
+    }
+    header > h1 {
+        font-size: 1.8rem;
+    }
+  }

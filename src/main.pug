@@ -9,13 +9,13 @@
             a.w3-bar-item.w3-button(href='#publications') Publications
             a.w3-bar-item.w3-button(href='#teaching') Teaching
         
-header.w3-display-container.w3-content.w3-center#about
+header.w3-container.w3-content.w3-center#about
     h1.w3-margin Human-Computer Interaction at ETH Zürich
     p.w3-content The Human-Computer Interaction at ETH Zürich site connects students and researchers studing all HCI-related topics, including user interface technologies, new input &amp; output devices, novel interaction techniques, tangible &amp; ubiquitous computing, virtual &amp; augmented reality, educational technology, human-centered AI, as well as computer supported collaborative work.
     img#banner(src="./assets/banner.png", alt="", srcset="")
     figcaption Source: GPT
 
-section.w3-row.w3-content#groups
+section.w3-row.w3-content.w3-container#groups
     h2 Groups
     each group in data.groups
         div.group-container.w3-half
@@ -27,7 +27,7 @@ section.w3-row.w3-content#groups
                 p.group-department !{group.department}
 
 
-section.w3-content#publications
+section.w3-content.w3-container#publications
     h2 Publications
     each pub in data.pubs
         div.w3-row.w3-padding-32
@@ -37,7 +37,7 @@ section.w3-content#publications
                 p !{pub.author}
                 p !{pub.booktitle}, !{pub.year}
 
-section.w3-content#teaching
+section.w3-content.w3-container#teaching
     h2 Teaching
     each course in data.courses
         div.w3-row.w3-padding-32
