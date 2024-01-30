@@ -29,7 +29,22 @@ module.exports = {
             {
                 test: /\.bib$/,
                 loader: 'raw-loader'
-            }
+            },
+            {
+                test: /\.css$/i,
+                use: ["style-loader", "css-loader"],
+            },
+            {
+                test: /\.md$/,
+                use: [
+                  {
+                    loader: "html-loader",
+                  },
+                  {
+                    loader: "markdown-loader"
+                  },
+                ],
+              },
         ]
     },
     mode: 'development'
