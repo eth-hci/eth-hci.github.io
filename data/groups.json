@@ -1,38 +1,30 @@
 [
     {
-        "name": "Advanced Interactive Technologies",
-        "link": "https://ait.ethz.ch",
-        "linkAbbr": "ait.ethz.ch",
-        "faculty": "Otmar Hilliges",
-        "department": "Department of Computer Science"
-    },
-    {
         "name": "Sensing, Interaction &amp; Perception Lab",
-        "link": "https://siplab.org",
-        "linkAbbr": "siplab.org",
+        "link": "https://siplab.ethz.ch",
+        "linkAbbr": "siplab.ethz.ch",
         "faculty": "Christian Holz",
         "department": "Department of Computer Science"
     },
     {
         "name": "Programming, Education, and Computer-Human Interaction Lab",
-        "link": "https://peachlab.inf.ethz.ch/",
+        "link": "https://peachlab.inf.ethz.ch",
         "linkAbbr": "peachlab.inf.ethz.ch",
         "faculty": "April Wang",
         "department": "Department of Computer Science"
     },
     {
-        "name": "Chair of Cognitive Science",
-        "link": "https://cog.ethz.ch/",
-        "linkAbbr": "cog.ethz.ch",
-        "faculty": "Christoph Hölscher",
+        "name": "Learning and Instruction Lab",
+        "link": "https://li.ethz.ch",
+        "linkAbbr": "li.ethz.ch",
+        "faculty": "Martina Rau",
         "department": "Department of Humanities, Social and Political Sciences"
     },
-    
     {
-        "name": "",
-        "link": "",
-        "linkAbbr": "",
-        "faculty": "Martina Rau",
+        "name": "Security, Privacy & Society Lab",
+        "link": "https://spg.ethz.ch",
+        "linkAbbr": "spg.ethz.ch",
+        "faculty": "Verena Zimmermann",
         "department": "Department of Humanities, Social and Political Sciences"
     }
 ]
