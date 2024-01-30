@@ -14,8 +14,12 @@
     "@webdiscus/pug-loader": "^2.10.6",
     "babel-loader": "^9.1.3",
     "bibtex-js-parser": "^1.1.6",
+    "css-loader": "^6.9.1",
+    "html-loader": "^5.0.0",
+    "markdown-loader": "^8.0.0",
     "pug": "^3.0.2",
     "raw-loader": "^4.0.2",
+    "style-loader": "^3.3.4",
     "webpack": "^5.90.0",
     "webpack-cli": "^5.1.4"
   }
