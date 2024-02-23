@@ -26,5 +26,12 @@
         "linkAbbr": "spg.ethz.ch",
         "faculty": "Verena Zimmermann",
         "department": "Department of Humanities, Social and Political Sciences"
+    },
+    {
+        "name": "Interactive Visualization and Intelligence Augmentation Lab",
+        "link": "https://ivia.ethz.ch/",
+        "linkAbbr": "ivia.ethz.ch",
+        "faculty": "Mennatallah El-Assady",
+        "department": "Department of Computer Science"
     }
 ]
