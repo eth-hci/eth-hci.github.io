@@ -33,5 +33,12 @@
         "linkAbbr": "ivia.ethz.ch",
         "faculty": "Mennatallah El-Assady",
         "department": "Department of Computer Science"
+    },
+    {
+        "name": "Chair of Cognitive Science",
+        "link": "https://cog.ethz.ch/",
+        "linkAbbr": "cog.ethz.ch",
+        "faculty": "Christoph Hölscher",
+        "department": "Department of Humanities, Social and Political Sciences"
     }
 ]
