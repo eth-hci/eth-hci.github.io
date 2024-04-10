@@ -10,5 +10,11 @@
         "lecturers": "Prof. Christian Holz",
         "term": "Spring 2024",
         "url": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178013&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=en"
+    },
+        {
+        "name": "Human-Centered Security and Privacy Lab",
+        "lecturers": "Prof. Verena Zimmermann",
+        "term": "Spring 2024",
+        "url": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024S&lerneinheitId=178205&lang=en"
     }
 ]
