@@ -212,7 +212,7 @@ eval("module.exports = /*#__PURE__*/JSON.parse('[{\"name\":\"Sensing, Interactio
 /***/ ((module) => {
 
 "use strict";
-eval("module.exports = /*#__PURE__*/JSON.parse('[{\"name\":\"Mobile Health and Activity Monitoring\",\"lecturers\":\"Prof. Christian Holz\",\"term\":\"Spring 2024\",\"url\":\"https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=177815&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=en\"},{\"name\":\"Advanced Topics in Mixed Reality\",\"lecturers\":\"Prof. Christian Holz\",\"term\":\"Spring 2024\",\"url\":\"https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178013&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=en\"}]');\n\n//# sourceURL=webpack://hci.ethz.ch/./data/teaching.json?");
+eval("module.exports = /*#__PURE__*/JSON.parse('[{\"name\":\"Mobile Health and Activity Monitoring\",\"lecturers\":\"Prof. Christian Holz\",\"term\":\"Spring 2024\",\"url\":\"https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=177815&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=en\"},{\"name\":\"Advanced Topics in Mixed Reality\",\"lecturers\":\"Prof. Christian Holz\",\"term\":\"Spring 2024\",\"url\":\"https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178013&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=en\"},{\"name\":\"Human-Centered Security and Privacy Lab\",\"lecturers\":\"Prof. Verena Zimmermann\",\"term\":\"Spring 2024\",\"url\":\"https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024S&lerneinheitId=178205&lang=en\"}]');\n\n//# sourceURL=webpack://hci.ethz.ch/./data/teaching.json?");
 
 /***/ })
 
